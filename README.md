@@ -7,6 +7,7 @@ red color masking to avoid detecting orange or other similar colors.
 ---
 
 ##  Project Structure
+
 color-masking-opencv/
 │
 ├── pics/ # Sample images
