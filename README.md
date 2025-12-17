@@ -36,19 +36,29 @@ color-masking-opencv/
    - Red-only output
 
 ---
+## Run the Live Red Detection
+```bash
+python live.py
+```
 
+Press ESC to exit the camera window.
 ##  Requirements
 
 Make sure you have Python installed, then install dependencies:
 
 ```bash
 pip install opencv-python numpy
+```
+
+---
 
 ## Run the Live Red Detection
 ```bash
 python live.py
-
+```
 Press ESC to exit the camera window.
+
+---
 
 ##  Jupyter Notebook
 
